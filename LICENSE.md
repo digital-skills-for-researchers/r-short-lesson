@@ -5,7 +5,7 @@ permalink: /license/
 ---
 ## Instructional Material
 
-All Software Carpentry and Data Carpentry instructional material is
+This material is adapted from [R lesson](https://github.com/swcarpentry/r-novice-inflammation) by Software Carpentry Foundation and is
 made available under the [Creative Commons Attribution
 license][cc-by-human]. The following is a human-readable summary of
 (and not a substitute for) the [full legal text of the CC BY 4.0
