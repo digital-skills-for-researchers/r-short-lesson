@@ -456,7 +456,7 @@ If we don't provide a slice for either rows or columns, e.g. `dat[, ]`, R return
 
 
 ~~~
-# All columns from row 5
+# All columns of row 5
 dat[5, ]
 ~~~
 {: .r}
@@ -476,7 +476,7 @@ dat[5, ]
 
 
 ~~~
-# All rows from column 16
+# All rows of column 16
 dat[, 16]
 ~~~
 {: .r}
